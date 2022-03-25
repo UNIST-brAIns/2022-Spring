@@ -4,8 +4,8 @@
 
 ### 스터디 목적
 
-Kaggle 스터디는 공개된 데이터셋을 분석하고 머신러닝/딥러닝 알고리즘을 적용시켜 보며 데이터 분석과 딥러닝 관련 프레임워크에 익숙해지는 것을 목표로 합니다.
-\\
+Kaggle 스터디는 공개된 데이터셋을 분석하고 머신러닝/딥러닝 알고리즘을 적용시켜 보며 데이터 분석과 딥러닝 관련 프레임워크에 익숙해지는 것을 목표로 합니다. \\\\
+
 ### 스터디 주제
 
 아래 링크들에서 관련 자료를 찾아볼 수 있습니다.
@@ -14,7 +14,8 @@ Kaggle 스터디는 공개된 데이터셋을 분석하고 머신러닝/딥러�
 - Kaggle Titanic: [https://www.kaggle.com/c/titanic](https://www.kaggle.com/c/titanic)
 - Titanic 튜토리얼: [https://kaggle-kr.tistory.com/17?category=868316](https://kaggle-kr.tistory.com/17?category=868316)
 - Titanic 튜토리얼 2: [https://velog.io/@fiifa92/타이타닉-튜토리얼](https://velog.io/@fiifa92/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC)
-\\
+
+\\\\
 ### 스터디 진행방식
 
 1. 매 주 스터디 진행
